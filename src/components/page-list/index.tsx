@@ -49,7 +49,17 @@ const asideData: PageListItem[] = [
         title: 'simple triangle',
         pageURL: '/simple-triangle',
         githubURL: `${baseGithubURL}/simple-triangle/index.tsx`
-    }
+    },
+    {
+        title: 'test webgpu yuv render',
+        pageURL: '/test-webgpu',
+        githubURL: `${baseGithubURL}/test-webgpu/index.tsx`
+    },
+    {
+        title: 'test webgl yuv render',
+        pageURL: '/test-webgl',
+        githubURL: `${baseGithubURL}/test-webgl/index.tsx`
+    },
 ]
 
 const PageList = () => {

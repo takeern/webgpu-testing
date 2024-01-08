@@ -15,7 +15,9 @@
         "react": "18.2.0",
         "react-dat-gui": "^4.1.1",
         "react-dom": "18.2.0",
-        "uuid": "^9.0.0"
+        "uuid": "^9.0.0",
+        "yuv-buffer": "^1.0.0",
+        "yuv-canvas": "^1.2.11"
     },
     "devDependencies": {
         "@types/node": "18.7.20",
